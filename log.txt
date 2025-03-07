@@ -1,0 +1,5 @@
+----- NUEVA SESIÓN -----
+Opción seleccionada: 1
+Suma: 1.0 + 1.0 = 2.0
+Opción seleccionada: 3
+Error: División por cero.
